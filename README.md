@@ -1,6 +1,6 @@
 # Topwords
 
-Dependecies:
+Dependencies:
 
 Install the web.py light MVC framework python Bindings.
 
